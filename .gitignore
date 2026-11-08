@@ -1,0 +1,38 @@
+# Build output
+/build/
+/out/
+/dist/
+/release/
+/release-starfruit/
+/artifacts/
+/.vs/
+
+# CMake / Visual Studio generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+*.obj
+*.res
+*.pdb
+*.ilk
+*.tlog
+*.recipe
+
+# Compiled binaries belong in GitHub Releases
+*.exe
+*.dll
+
+# Local/editor files
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local validation preview
+/assets/exe-icon-preview.png
